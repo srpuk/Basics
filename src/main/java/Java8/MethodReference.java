@@ -1,6 +1,6 @@
 package Java8;
-import java.lang.reflect.Method;
-import java.util.*;
+
+@FunctionalInterface
 interface MyMethodReference{
     public void display(String str);
         }

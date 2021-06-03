@@ -26,8 +26,8 @@ public class Streams {
 
     Arrays.stream(new int[] {2,4,6,8,9}).map(x->x*x).average().ifPresent(System.out::println);
 
-    List<String> list=Arrays.asList("Anu","Pallavi","Murali","megha","Aruna","Pinku");
-    list.stream().map(String::toLowerCase).filter(x->x.startsWith("a")).forEach(System.out::println);
+    List<String> list=Arrays.asList("Azad","Anu",null,"Pallavi","Murali","megha","Aruna","Pinku");
+    list.stream().filter(x->x!=null).map(String::toLowerCase).filter(x->x.startsWith("a")).sorted().forEach(System.out::println);
 
     Stream<String> bands= Files.lines(Paths.get("C:\\Users\\sreeroop.shiv.u.k\\git\\Basics\\src\\main\\java\\Java8\\bands.txt"));
     bands.sorted().filter(x->x.length()>4).forEach(System.out::print);

@@ -1,0 +1,4 @@
+Karikku:1.3:10
+flique:10
+othalanga:1.2:10
+Arju:.5:10
