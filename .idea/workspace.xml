@@ -5,191 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37d36db-9ac0-4991-9cd5-37575aecb280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputfile.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputfile.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/ArrayListMapForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/CoreMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/EmployeePojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/EmployeePojo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/ListExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/QueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/collections/SetExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/BitSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Inner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/IoStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/JavaDocAndAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ObjectCreationTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/PropertiesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ReflectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/StringTokenizerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/This.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/TypeCastandWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/labelledForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/MethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/oop/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/oop/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/oop/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/oop/Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/oop/Polymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/properties.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testinputoutput.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileChanges/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/DateManipulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/CompareString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/DefaultMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/Lambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/Lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/Lambda2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/Lambda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/MethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/MethodReference2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/MyLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/MyLambda2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/MyMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/NewJava8Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/bands.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Java8/bands2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/ConsumerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/InterThreadCommunication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/MyData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/MyData1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/MyThreadRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/ProducerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/ThreadMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/MultiThreading/ThreadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Search/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Search/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sort/Insertion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sort/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sort/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/CastingEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Clone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ComparableEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ComparatorEg$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ComparatorEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/CustomException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/DocumentationEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Employee6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/FinalEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Generic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/LabelledLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/MapEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ObjectCreationEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ObjectStream$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/ObjectStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Polymorphism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/RandomEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Second.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/SerializeEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/SetEg$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/SetEg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Simple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/general/genericFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/DocumentationEg.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/DocumentationEg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/class-use/DocumentationEg.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/class-use/DocumentationEg.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/general/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/general/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/doc/package-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/doc/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/doc/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serialize.txt" beforeDir="false" afterPath="$PROJECT_DIR$/serialize.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/DefaultMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/DefaultMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/Lambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/MethodReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/MethodReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/MethodReference2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/MethodReference2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/bands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/bands.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/bands2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/bands2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8/lambda2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/java8/lambda2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreading/InterThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/multithreading/InterThreadCommunication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreading/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/multithreading/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreading/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/multithreading/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreading/MyThreadRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/multithreading/MyThreadRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MultiThreading/ThreadMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/multithreading/ThreadMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Search/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/search/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/sort/Insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/CastingEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/CastingEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/ComparableEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ComparableEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/ComparatorEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ComparatorEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/DocumentationEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/DocumentationEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/FinalEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/FinalEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Generic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/LabelledLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/LabelledLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/MapEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/MapEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/ObjectCreationEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ObjectCreationEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/ObjectStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ObjectStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/RandomEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/RandomEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/SerializeEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/SerializeEg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/general/SetEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/SetEg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,12 +155,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/sreeroop/Library/CloudStorage/OneDrive-Personal/Myspace/git-personal/java/Basics"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sreeroop/Library/CloudStorage/OneDrive-Personal/Myspace/git-personal/java/Basics&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -361,7 +178,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileIO">
+  <component name="RunManager" selected="Application.DateManipulation">
     <configuration name="Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.core.oop.Abstraction" />
       <module name="Basics.main" />
@@ -380,7 +197,20 @@
       <module name="Basics.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.core.collections.*" />
+          <option name="PATTERN" value="com.core.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.general.DateManipulation" />
+      <module name="Basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.general.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,26 +244,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.oop.Polymorphism" />
-      <module name="Basics.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateManipulation" />
         <item itemvalue="Application.FileIO" />
         <item itemvalue="Application.ArrayListMapForEach" />
         <item itemvalue="Application.Abstraction" />
         <item itemvalue="Application.Interface" />
-        <item itemvalue="Application.Polymorphism" />
       </list>
     </recent_temporary>
   </component>
