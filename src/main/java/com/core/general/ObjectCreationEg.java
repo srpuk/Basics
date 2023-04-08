@@ -37,17 +37,23 @@ public class ObjectCreationEg {
 	Simple s=(Simple)c.newInstance();
 	s.getNothing();
 	
-	}catch(Exception e) {e.printStackTrace();}
-	
+	} catch (ClassNotFoundException e) {
+		throw new RuntimeException(e);
+	} catch (InstantiationException e) {
+		throw new RuntimeException(e);
+	} catch (IllegalAccessException e) {
+		throw new RuntimeException(e);
+	}
 
-	//Clone
+
+		//Clone
 	
 	try {
 		
 		Clone clone=new Clone("sree","12");
 		Clone clone2=(Clone) clone.clone();
 		
-	}catch(Exception e) {
+	}catch(CloneNotSupportedException e) {
 		e.printStackTrace();
 	}
 	

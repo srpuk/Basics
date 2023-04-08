@@ -5,8 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b37d36db-9ac0-4991-9cd5-37575aecb280" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/DateManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/core/general/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/ComparsionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/CustomAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/Encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/FileIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/Inner$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/IoStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/JavaDocAndAnnotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/JsonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/LambdaExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/MethodReferenceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/ObjectCreationTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/OuterClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/PropertiesExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/ReflectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/TestInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/TestInterface3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/TestInterface4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/collections/labelledForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/general/CustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/core/general/CustomException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/general/Exception.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/core/general/Exception.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/core/general/ObjectCreationEg.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/core/general/ObjectCreationEg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/core/general/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/core/general/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/core/general/ObjectCreationEg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/core/general/ObjectCreationEg.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,12 +186,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sreeroop/Library/CloudStorage/OneDrive-Personal/Myspace/git-personal/java/Basics&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/sreeroop/Library/CloudStorage/OneDrive-Personal/Myspace/git-personal/java/basics-java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -178,7 +209,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DateManipulation">
+  <component name="RunManager" selected="Application.EnumTest">
     <configuration name="Abstraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.core.oop.Abstraction" />
       <module name="Basics.main" />
@@ -218,6 +249,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core.general.EnumTest" />
+      <module name="Basics.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core.general.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.core.general.FileIO" />
       <module name="Basics.main" />
@@ -231,26 +275,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core.oop.Interface" />
-      <module name="Basics.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.core.oop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.DateManipulation" />
         <item itemvalue="Application.FileIO" />
         <item itemvalue="Application.ArrayListMapForEach" />
         <item itemvalue="Application.Abstraction" />
-        <item itemvalue="Application.Interface" />
       </list>
     </recent_temporary>
   </component>

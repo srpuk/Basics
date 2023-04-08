@@ -3,6 +3,9 @@ package com.core.general;
 
 public class Exception extends Throwable {
 
+	public Exception() {
+	}
+
 	public static void main(String []args){
 		java.lang.Exception exp=new java.lang.Exception();
 		exp.getMessage();

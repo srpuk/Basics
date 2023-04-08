@@ -3,10 +3,10 @@ package com.core.general;
 public class CustomException extends Exception{
 
 	public CustomException(String s) {
-		super(s);
 	}
 	
-	public CustomException() {}
+	public CustomException() {
+	}
 	
 	
 	public static void main(String[] args) {
